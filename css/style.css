@@ -1,6 +1,6 @@
 @font-face {
-	font-family: 'Pixel';
-	src: url("../fonts/liquidcrystal-bold.otf") format('opentype');
+	font-family: 'Liquidcrystal Bold';
+	src: url("../fonts/LiquidCrystal-Bold.otf") format('opentype');
 }
 :root {
 	--primary: #c6c6c6;
@@ -45,7 +45,7 @@ input[type="button"], input[type="submit"] {
 	-ms-transition: 0.5s all;
 }
 h1, h2, h3, h4 {
-	font-family: 'Pixel', sans-serif;
+	font-family: 'Liquidcrystal Bold', sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
 
@@ -409,7 +409,7 @@ padding: 70px 0 165px 0;
 	max-width: 220px;
 	text-align: center;
 	box-shadow: 0 5px 5px #00000033;
-	font-family: "pixel", sans-serif;
+	font-family: "Liquidcrystal Bold", sans-serif;
 	min-width: 100px;
 
 
@@ -676,7 +676,7 @@ h3.game_title {
 	color:var(--main-text);
 }
 .service-grid-agileits a {
-	font-family: 'Pixel', sans-serif;
+	font-family: 'Liquidcrystal Bold', sans-serif;
 	color: var(--main-text);
 	border: 2px solid var(--main-text);
 	font-size: 15px;
@@ -734,7 +734,7 @@ h3.game_title {
 	text-align:center;
 }
 a.learn{
-	font-family: Pixel, sans-serif;
+	font-family: Liquidcrystal Bold, sans-serif;
 	color:#fff;
 	border:2px solid #fff;
 	font-size:14px;
@@ -1707,7 +1707,7 @@ form .form-hint b {
 }
 
 .navbar-default .navbar-nav > li > a {
-	font-family: "pixel", sans-serif;
+	font-family: "Liquidcrystal Bold", sans-serif;
 	font-size: 24px;
 	text-shadow: 0 1px 10px #0009;
 	color: var(--bright);
@@ -2356,7 +2356,7 @@ li>a {
 }
 #faq h4 {
 	margin-bottom: 30px;
-	color: var(--bright);
+	color: var(--darker);
 }
 .accordion label {
 	margin-left: 40px;
@@ -2366,7 +2366,7 @@ li>a {
 	font-size: 18px;
 	font-weight: 700;
 	line-height: 16px;
-	color: var(--bright);
+	color: var(--darker);
 	cursor: pointer;
 	-webkit-user-select: none; /* webkit (safari, chrome) browsers */
 	-moz-user-select: none; /* mozilla browsers */
@@ -2788,7 +2788,7 @@ li>a {
 
 	.view h4 {
 		font-size: 1.8em;
-		font-family: "pixel", sans-serif;
+		font-family: "Liquidcrystal Bold", sans-serif;
 	}
 	.view p {
 		font-size: 12px;
