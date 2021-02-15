@@ -1163,7 +1163,7 @@ figure.effect-zoe p.description > .button {
 	left: 0;
 	position: absolute;
 	top: 0;
-	filter: blur(30px) hue-rotate(-155deg);
+
 	background: #000;
 	z-index: 5;
 }
