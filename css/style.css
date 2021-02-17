@@ -167,7 +167,7 @@ img {
 	font-size:40px;
 }
 .navbar-header img{
-	width:160px;
+	width:190px;
 	margin-top: 10px;
 }
 .navbar-nav>li {
@@ -818,6 +818,7 @@ a.learn:hover{
 .footer-right-ltpwr img {
 	width: 200px;
 	filter: drop-shadow(2px 4px 6px #0006);
+	border-radius: 0 !important;
 }
 
 .footer-right-ltpwr p{
@@ -2755,6 +2756,9 @@ li>a {
 		margin-top:7px;
 		font-size: 35px;
 	}
+	.header .container {
+		width: unset;
+	}
 	.payment_large {
 		display: block;
 		text-align: center;
@@ -3027,6 +3031,7 @@ li>a {
 	.collection-text p {
 		padding: 0 10px;
 	}
+
 	#profile svg {
 		position: relative;
 		top: 0;
@@ -3129,7 +3134,7 @@ li>a {
 		font-size: 19px;
 	}
 	.service-grid-agileits {
-		width: calc(50% - 20px);
+		width: calc(50% - 21px);
 		float: left;
 		margin-bottom: 30px;
 	}
